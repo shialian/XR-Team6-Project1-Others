@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/XRProject1Scene/XueLiang/Scene/StartScene.unity
+    guid: 461f25df156729f4689abee2feee34ed
+  - enabled: 1
+    path: Assets/XRProject1Scene/K/Office1GetMessage.unity
+    guid: af2826dfc471dd742b1bdf806856f477
+  - enabled: 1
+    path: Assets/XRProject1Scene/K/Office2NightCall.unity
+    guid: 252e1656dc52fce4cbff9ac112f2c106
+  - enabled: 1
+    path: Assets/XRProject1Scene/XueLiang/Scene/Street.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/XRProject1Scene/XueLiang/Scene/Ending1Typing.unity
+    guid: 536b860b4bb6a864db8c2c9a35481bea
+  - enabled: 1
+    path: Assets/XRProject1Scene/XueLiang/Scene/Ending1PushingChair.unity
+    guid: 017ef417a8506a94fa5bebeaf27a48b0
+  - enabled: 1
+    path: Assets/XRProject1Scene/XueLiang/Scene/Ending2FatherDied.unity
+    guid: d2142ae33030e824485d0ec542b65048
+  - enabled: 1
+    path: Assets/XRProject1Scene/XueLiang/Scene/Ending3CarAccident.unity
+    guid: 8fa0154e042f64a498e76c21bc523c7b
+  m_configObjects: {}
